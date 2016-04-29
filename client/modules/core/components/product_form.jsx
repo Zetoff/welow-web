@@ -17,6 +17,7 @@ class ProductForm extends React.Component {
               <Astroforms.Field name='description'/>
               <Astroforms.Field name='brand'/>
               <Astroforms.Field name='categories'/>
+              <Astroforms.Field name='categories2'/>
               <Astroforms.Field name='price'/>
             </Astroforms.Form>
           </Col>
