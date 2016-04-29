@@ -25,4 +25,4 @@ accounts-password
 std:accounts-bootstrap
 fortawesome:fontawesome
 less
-zetoff:astroforms-react
+zetoff:astroforms-react-bootstrap
